@@ -24,7 +24,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
 
-## 📫 Let's Connect
+## 📫 Let's Connect:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/wajeeh-ul-hassan-963091319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📬 Email: wajeehkhan470@gmail.com
